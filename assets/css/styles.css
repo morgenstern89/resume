@@ -84,6 +84,7 @@ p {
 }
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
+  border-radius: 100%;
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
@@ -123,13 +124,13 @@ p {
 .sidebar-wrapper .education-container .meta {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
-  margin-bottom: 0px;
+  margin-bottom: 0;
   margin-top: 0;
 }
 .sidebar-wrapper .education-container .time {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 .sidebar-wrapper .languages-container .lang-desc {
   color: rgba(255, 255, 255, 0.6);
@@ -219,7 +220,11 @@ p {
   font-size: 16px;
   font-weight: 400;
   margin-top: 0;
-  margin-bottom: 5px;
+  margin-bottom: 0;
+}
+.main-wrapper .project-tagline{
+  margin-bottom: 10px;
+  color: #97AAC3;
 }
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
