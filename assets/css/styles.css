@@ -181,7 +181,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #2d7788;
+  background: #264C39;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
@@ -247,7 +247,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #7ca997;
+  background: #264C39;
 }
 .footer {
   padding: 30px;
