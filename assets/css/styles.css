@@ -10,8 +10,8 @@
 /* ======= Base ======= */
 body {
   font-family: 'Roboto', sans-serif;
-  color: #545E6C;
-  background: #f5f5f5;
+  color: #264C39;
+  background: #ebf5f1;
   font-size: 14px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
@@ -26,7 +26,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #2d7788;
+  color: #092f25;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,7 +34,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #1a454f;
+  color: #041414;
 }
 a:focus {
   text-decoration: none;
@@ -43,7 +43,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #42A8C0;
+  background: #7ca997;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -52,7 +52,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #42A8C0;
+  background: #7ca997;
   position: absolute;
   right: 0;
   width: 240px;
@@ -76,7 +76,7 @@ p {
   margin-bottom: 10px;
 }
 .sidebar-wrapper .tagline {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(20, 67, 51, 1);
   font-size: 16px;
   font-weight: 400;
   margin-top: 0;
@@ -122,18 +122,18 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .education-container .meta {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(20 , 67, 51, 1);
   font-weight: 500;
   margin-bottom: 0;
   margin-top: 5px;
 }
 .sidebar-wrapper .education-container .time {
-  color: rgba(255, 255, 255, 0.6);
+   color: rgba(20 , 67, 51, 1);
   font-weight: 500;
   margin-bottom: 0;
 }
 .sidebar-wrapper .languages-container .lang-desc {
-  color: rgba(255, 255, 255, 0.6);
+   color: rgba(20 , 67, 51, 1);
 }
 .sidebar-wrapper .languages-list {
   margin-bottom: 0;
@@ -200,7 +200,7 @@ p {
   margin-bottom: 2px;
 }
 .main-wrapper .job-title {
-  color: #3F4650;
+  color: #173027;
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 0;
@@ -210,11 +210,11 @@ p {
   position: absolute;
   right: 0;
   top: 0;
-  color: #97AAC3;
+  color: #8db4a4;
 }
 .main-wrapper .company {
   margin-bottom: 10px;
-  color: #97AAC3;
+  color: #8db4a4;
 }
 .main-wrapper .project-title {
   font-size: 16px;
@@ -224,7 +224,7 @@ p {
 }
 .main-wrapper .project-tagline{
   margin-bottom: 10px;
-  color: #97AAC3;
+  color: #8db4a4;
 }
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
@@ -247,7 +247,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #7bc2d3;
+  background: #7ca997;
 }
 .footer {
   padding: 30px;
@@ -255,7 +255,7 @@ p {
 }
 .footer .copyright {
   line-height: 1.6;
-  color: #545E6C;
+  color: #173027;
   font-size: 13px;
 }
 .footer .fa-heart {
