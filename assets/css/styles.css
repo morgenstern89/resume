@@ -216,11 +216,11 @@ p {
   position: absolute;
   right: 0;
   top: 0;
-  color: #8db4a4;
+  color: #264C39;
 }
 .main-wrapper .company {
   margin-bottom: 10px;
-  color: #8db4a4;
+  color: #264C39;
 }
 .main-wrapper .project-title {
   font-size: 16px;
@@ -230,7 +230,7 @@ p {
 }
 .main-wrapper .project-tagline{
   margin-bottom: 10px;
-  color: #8db4a4;
+  color: #264C39;
 }
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
