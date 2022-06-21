@@ -41,7 +41,7 @@ a:focus {
 }
 
 i {
- color: #ebf5f1;
+ color: #eeeeee;
 }
 
 p {
@@ -133,7 +133,7 @@ p {
   margin-top: 5px;
 }
 .sidebar-wrapper .education-container .time {
-   color: #ebf5f1;
+   color: #eeeeee;
   font-weight: 500;
   margin-bottom: 0;
 }
@@ -216,7 +216,7 @@ p {
   position: absolute;
   right: 0;
   top: 0;
-  color: #23483a;
+  color: #505559;
 }
 .main-wrapper .company {
   margin-bottom: 10px;
@@ -227,6 +227,7 @@ p {
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 0;
+  color: #173027;
 }
 .main-wrapper .project-tagline{
   margin-bottom: 10px;
