@@ -138,7 +138,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .languages-container .lang-desc {
-   color: rgba(20 , 67, 51, 1);
+   color: #eeeeee;
 }
 .sidebar-wrapper .languages-list {
   margin-bottom: 0;
@@ -154,7 +154,7 @@ p {
 }
 .sidebar-wrapper .interests-list li {
   margin-bottom: 5px;
-  color: #ebf5f1;
+  color: #eeeeee;
 }
 .sidebar-wrapper .interests-list li:last-child {
   margin-bottom: 0;
@@ -224,7 +224,7 @@ p {
 }
 .main-wrapper .project-title {
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 500;
   margin-top: 0;
   margin-bottom: 0;
   color: #173027;
