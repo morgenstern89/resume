@@ -154,6 +154,7 @@ p {
 }
 .sidebar-wrapper .interests-list li {
   margin-bottom: 5px;
+  color: #ebf5f1;
 }
 .sidebar-wrapper .interests-list li:last-child {
   margin-bottom: 0;
