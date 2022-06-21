@@ -41,7 +41,7 @@ a:focus {
 }
 
 i {
- color: #7ca997
+ color: #ebf5f1;
 }
 
 p {
@@ -127,7 +127,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .education-container .meta {
-  color: rgba(20 , 67, 51, 1);
+  color:#ebf5f1;
   font-weight: 500;
   margin-bottom: 0;
   margin-top: 5px;
