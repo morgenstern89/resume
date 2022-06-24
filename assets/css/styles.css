@@ -143,7 +143,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .languages-list li {
-  margin-bottom: 10px;
+  margin-bottom: auto;
 }
 .sidebar-wrapper .languages-list li:last-child {
   margin-bottom: 0;
