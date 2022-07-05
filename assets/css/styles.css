@@ -206,11 +206,11 @@ p {
   margin-bottom: 2px;
 }
 .main-wrapper .job-title {
-  color: #183a3d;
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 0;
   font-weight: 500;
+  color: #183a3d;
 }
 .main-wrapper .time {
   position: absolute;
@@ -225,9 +225,9 @@ p {
 .main-wrapper .project-title {
   font-size: 16px;
   font-weight: 500;
+  color: #183a3d;
   margin-top: 0;
   margin-bottom: 0;
-  color: #183a3d;
 }
 .main-wrapper .project-tagline{
   margin-bottom: 10px;
