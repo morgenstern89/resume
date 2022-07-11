@@ -200,6 +200,14 @@
 .fa-envelope-o:before {
   content: "\f003";
 }
+
+.fa-browser:before{
+  content:"\f37e";
+}
+
+.fa-location-dot:before{
+  content:"\f3c5";
+}
 .fa-heart:before {
   content: "\f004";
 }
